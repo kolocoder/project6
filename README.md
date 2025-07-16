@@ -8,9 +8,9 @@ Time spent: **5** hours spent in total
 
 ## Summary
 
-**Game of Thrones** is an android app that **fill in description (Example: "An app that displays a random character from the Game of Thrones API")**
+**Game of Thrones** is an android app that **displays a random character from the Game of Thrones API**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😍😊🤩**
 
 ## Application Features
 
