@@ -56,6 +56,7 @@ Here's a video / GIF that demos all of the app's implemented features:
   </div>
 
 GIF created with **your chosen GIF tool**
+https://imgur.com/a/6odLwvb
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
